@@ -1,7 +1,7 @@
 {
   "name": "pro-components-ant-design-vue",
   "type": "module",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "基于 ant-design-vue 二次封装，让中后台开发更简单",
   "author": "zhengchangfu",
   "license": "MIT",
